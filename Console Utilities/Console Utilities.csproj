@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <RootNamespace>Console_Utilities</RootNamespace>
+    <RootNamespace>ConsoleUtilities</RootNamespace>
   </PropertyGroup>
 
 </Project>
